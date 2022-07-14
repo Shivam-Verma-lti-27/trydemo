@@ -1,0 +1,2 @@
+this is a Developer mode
+learning git and github
